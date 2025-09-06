@@ -1,3 +1,5 @@
+let defaultUrl = "http://localhost:8080/products"
+
 function list() {
 
 }
