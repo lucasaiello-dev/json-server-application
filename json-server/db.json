@@ -1,18 +1,18 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Camisa Polo",
-            "size": "P",
-            "price": 75.0,
-            "storage": 20
-        },
-        {
-            "id": 2,
-            "name": "Calça Jeans",
-            "size": "M",
-            "price": 100.0,
-            "storage": 30
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa Polo",
+      "size": "P",
+      "price": 75,
+      "storage": 20
+    },
+    {
+      "id": 2,
+      "name": "Calça Jeans",
+      "size": "M",
+      "price": 100,
+      "storage": 30
+    }
+  ]
 }
